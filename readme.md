@@ -1,5 +1,8 @@
 ##  一、项目简介
-### Java-Core项目是一系列java相关知识的代码实现
+### java-course项目是一系列java相关的知识学习与代码实现
+这里不涉及框架相关的领域
+
+Spring、SpringBoot、SpringCloud相关的学习代码，我放在另一个项目里
 
 ## 二、项目模块
 ### 1、jdk-base
@@ -14,17 +17,17 @@ JDK8~11的新功能
 ### 2、jvm
 JVM
 
-### 3、datastructure-algorithm
+### 3、data-algorithm
 Java数据结构与算法
 
 
-### 4、design-pattern
+### 4、design
 设计模式
 
-### 5、concurrencyin
+### 5、concurrent
 Java并发编程
 
-### 6、network-programming
+### 6、network
 Java网络编程
 
 ### 7、common-util
@@ -41,6 +44,11 @@ netty
 Json
 
 XML
+
+### 8、client-api
+#### 常见第三方的SDK、API等的研究使用：
+
+钉钉
 
 ## 三、参考书籍：
 ### 推荐：
