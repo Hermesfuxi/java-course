@@ -40,7 +40,7 @@ public class MathDemo01 {
         System.out.println("10 x 5 = " + multiplication.operation(10, 5));
         System.out.println("10 / 5 = " + division.operation(10, 5));
 
-        // 求模运算和求余运算在第一步不同: 取余运算在取c的值时，向0 方向舍入(fix()函数)；而取模运算在计算c的值时，向负无穷方向舍入(floor()函数)
+        // 求模运算和求余运算在第一步不同: 取余运算在取c的值时，向 0 方向舍入(fix()函数)；而取模运算在计算c的值时，向负无穷方向舍入(floor()函数)
         // 当a和b符号一致时，求模运算和求余运算所得的c的值一致，因此结果一致。当符号不一致时，结果不一样。
         // 各个环境下%运算符的含义不同，比如c/c++，java 为取余，而python则为取模。
         // Math.floorMod(+4, -3) == -2;    (+4 % -3) == +1;
@@ -48,18 +48,28 @@ public class MathDemo01 {
         // Math.floorMod(-4, -3) == -1;    (-4 % -3) == -1;
         // Math.floorMod(+4, +3) == +1;    (+4 % +3) == +1;
 
-        // 取余运算: 向0 方向舍入
+        // 取余运算: 向 0 方向舍入（记忆：零余）
         MathOperation  remainderOperation = (a, b) -> a % b;
-        //取余的时候符号和被除数保持一致
+
         System.out.println("10 % -3 = " + remainderOperation.operation(10, -3));
         System.out.println("-10 % 3 = " + remainderOperation.operation(-10, 3));
         System.out.println("-10 % -3 = " + remainderOperation.operation(-10, -3));
+        // 取余的时候符号和被除数保持一致, 值不变
+        //10 % 3 = 1
+        //10 % -3 = 1
+        //-10 % 3 = -1
+        //-10 % -3 = -1
 
-        // 取模运算 : 向负无穷方向舍入
+        // 取模运算 : 向负无穷方向舍入（记忆：做最坏打算）
         MathOperation  modulusOperation = Math::floorMod;
-        //取模的时候符合和除数保持一致
+
         System.out.println("10 mod -3 = " + modulusOperation.operation(10, -3));
         System.out.println("-10 mod 3 = " + modulusOperation.operation(-10, 3));
         System.out.println("-10 mod -3 = " + modulusOperation.operation(-10, -3));
+        //取模的时候符合和除数保持一致，同号一值，异号一值
+        // 10 mod 3 = 1
+        // 10 mod -3 = -2
+        //-10 mod 3 = 2
+        //-10 mod -3 = -1
     }
 }
