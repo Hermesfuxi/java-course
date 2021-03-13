@@ -25,10 +25,17 @@ public class LocalDateTimeDemo {
 
         // 时间戳 转 localDataTime  在中国的时区偏移是8小时
         Long remindTime = 1534825831L;
-        LocalDateTime dateTime =LocalDateTime.ofEpochSecond(remindTime,0, ZoneOffset.ofHours(8));
+        LocalDateTime dateTime = LocalDateTime.ofEpochSecond(remindTime, 0, ZoneOffset.ofHours(8));
+
         // localDataTime 转 时间戳
         long secondLong1 = localDateTime.toEpochSecond(ZoneOffset.ofHours(8));
         long secondLong2 = localDateTime.toInstant(ZoneOffset.ofHours(8)).getEpochSecond();
+
+        System.out.println("时间戳1: " + secondLong1);
+        System.out.println("时间戳2: " + secondLong2);
+
+        LocalDateTime dateTime1 = LocalDateTime.parse("2021-03-06 09:30:35", DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
+        System.out.println(dateTime1.toEpochSecond(ZoneOffset.ofHours(8)) * 1000);
 
 
         LocalDate localDate = localDateTime.toLocalDate();
@@ -106,10 +113,11 @@ public class LocalDateTimeDemo {
 
         // 格式化时间
         String s1 = time.format(DateTimeFormatter.ISO_LOCAL_DATE_TIME);
-        String s2 = time.format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
         //自定义格式化
+        String s2 = time.format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
         DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         String s3 = time.format(dateTimeFormatter);
+
         System.out.println(s1);
         System.out.println(s2);
         System.out.println(s3);
