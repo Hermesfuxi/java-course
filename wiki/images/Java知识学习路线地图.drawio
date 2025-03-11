@@ -1,0 +1,118 @@
+<mxfile host="drawio-plugin" modified="2025-03-11T03:14:05.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="j9FcXPPBKyypRWXPcNXU" version="22.1.22" type="embed">
+  <diagram id="oolxFyZerAbKBtgdI1CR" name="第 1 页">
+    <mxGraphModel dx="2335" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GjXUgo9hvUYJmVXmrxzA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="30" width="1150" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-1" target="20IfCko1K_p9dKJKFMBF-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-1" target="20IfCko1K_p9dKJKFMBF-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-1" target="20IfCko1K_p9dKJKFMBF-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVwcVfplmmnHwAyb_KYD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-1" target="kVwcVfplmmnHwAyb_KYD-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-1" value="计算机科学导论&lt;br&gt;&lt;br&gt;计算机组成原理&lt;br&gt;&lt;br&gt;深入理解计算机系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="60" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-9" target="20IfCko1K_p9dKJKFMBF-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-9" value="操作系统概念&lt;br&gt;&lt;br&gt;自己动手写操作系统&lt;br&gt;&lt;br&gt;操作系统&amp;nbsp; 精髓与设计原理&lt;br&gt;&lt;br&gt;计算机的心智" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="170" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-10" target="20IfCko1K_p9dKJKFMBF-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-10" value="图解网络&lt;br&gt;&lt;br&gt;计算机网络：自顶向下方法&lt;br&gt;&lt;br&gt;深入理解计算机网络" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="180" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-11" target="20IfCko1K_p9dKJKFMBF-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVwcVfplmmnHwAyb_KYD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-11" target="20IfCko1K_p9dKJKFMBF-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-11" value="HTTP权威指南&lt;br&gt;&lt;br&gt;图解HTTP&lt;br&gt;&lt;br&gt;TCP-IP详解" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="305" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-13" target="20IfCko1K_p9dKJKFMBF-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-13" target="20IfCko1K_p9dKJKFMBF-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-13" value="鸟哥的Linux私房菜&lt;br&gt;&lt;br&gt;Linux就该这么学&lt;br&gt;&lt;br&gt;深入理解Linux内核" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="305" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-14" target="20IfCko1K_p9dKJKFMBF-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-14" value="Linux网络编程&lt;br&gt;&lt;br&gt;unix网络编程&lt;br&gt;&lt;br&gt;深入理解Linux网络技术内幕" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="585" y="305" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-15" target="20IfCko1K_p9dKJKFMBF-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-15" value="Linux高性能服务器编程&lt;br&gt;&lt;br&gt;Linux多线程服务端编程&lt;br&gt;&lt;br&gt;Linux_UNIX系统编程手册" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="435" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-16" target="20IfCko1K_p9dKJKFMBF-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20IfCko1K_p9dKJKFMBF-16" target="20IfCko1K_p9dKJKFMBF-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-16" value="C/C++&lt;br&gt;&lt;br&gt;编译原理&lt;br&gt;&lt;br&gt;编码-隐匿在计算机软硬件背后的语言" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="180" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-17" value="算法第四版&lt;br&gt;&lt;br&gt;图解数据结构-使用Java&lt;br&gt;&lt;br&gt;数据结构与算法java中文&lt;br&gt;&lt;br&gt;数据结构与算法分析（java语言描述）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="435" width="150" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-18" value="算法导论中文版&lt;br&gt;&lt;br&gt;算法心得： 高效算法的奥秘&lt;br&gt;&lt;br&gt;算法设计与分析基础" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="305" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-19" value="网络爬虫全解析 技术、原理与实践&lt;br&gt;&lt;br&gt;Python网络爬虫实战" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="775" y="450" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-20" value="Java多线程编程核心技术&lt;br&gt;&lt;br&gt;实战Java高并发程序设计&lt;br&gt;&lt;br&gt;JAVA并发编程实践&lt;br&gt;&lt;br&gt;精通Java并发编程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="290" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="20IfCko1K_p9dKJKFMBF-21" value="分布式系统概念与设计&lt;br&gt;&lt;br&gt;大规模分布式系统架构与设计实战" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="440" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVwcVfplmmnHwAyb_KYD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kVwcVfplmmnHwAyb_KYD-2" target="20IfCko1K_p9dKJKFMBF-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVwcVfplmmnHwAyb_KYD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kVwcVfplmmnHwAyb_KYD-2" target="kVwcVfplmmnHwAyb_KYD-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVwcVfplmmnHwAyb_KYD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kVwcVfplmmnHwAyb_KYD-2" target="20IfCko1K_p9dKJKFMBF-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVwcVfplmmnHwAyb_KYD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kVwcVfplmmnHwAyb_KYD-2" target="kVwcVfplmmnHwAyb_KYD-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVwcVfplmmnHwAyb_KYD-2" value="Java核心技术&lt;br&gt;&lt;br&gt;Java编程思想&lt;br&gt;&lt;br&gt;Effective Java" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="185" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVwcVfplmmnHwAyb_KYD-6" value="JVM：深入理解Java虚拟机&lt;br&gt;Java虚拟机规范(Java SE 8版)&lt;br&gt;HotSpot实战" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="990" y="185" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVwcVfplmmnHwAyb_KYD-10" value="Netty权威指南&lt;br&gt;&lt;br&gt;Netty实战&lt;br&gt;&lt;br&gt;手写Netty&lt;br&gt;&lt;br&gt;手写Http服务器&lt;br&gt;&lt;br&gt;手写Tomcat&lt;br&gt;&lt;br&gt;手写Mybatis&lt;br&gt;&lt;br&gt;手写Spring&lt;br&gt;&lt;br&gt;手写JDK&lt;br&gt;&lt;br&gt;仿写 Hutools&lt;br&gt;&lt;br&gt;手写Dubbo&lt;br&gt;&lt;br&gt;手写zk、kafka、hdfs、yarn、hbase、spark、flink" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="290" width="100" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="kVwcVfplmmnHwAyb_KYD-12" value="深入浅出设计模式&lt;br&gt;&lt;br&gt;大话设计模式&lt;br&gt;&lt;br&gt;设计模式的艺术--软件开发人员内功修炼之道&lt;br&gt;&lt;br&gt;UML和模式应用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="584.5" width="150" height="125" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

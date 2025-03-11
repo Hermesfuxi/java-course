@@ -7,7 +7,7 @@ package demo.hermes.java.network.threads.threadsafe;
  * 程序频繁的判断锁、释放锁，程序效率会降低
  */
 public class TicketRunnableV1 implements Runnable {
-    private Integer ticketNum = 100;
+    private volatile Integer ticketNum = 100;
 
     // 设置线程任务
     @Override

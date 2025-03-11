@@ -1,0 +1,25 @@
+{
+  "name": "java-course",
+  "version": "1.0.0",
+  "description": "java 教程",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gitbook build && gh-pages -d _book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hermesfuxi/java-course.git"
+  },
+  "keywords": [
+    "建议使用 node v13.5.0"
+  ],
+  "author": "hermesfuxi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hermesfuxi/java-course/issues"
+  },
+  "homepage": "https://github.com/Hermesfuxi/java-course#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
